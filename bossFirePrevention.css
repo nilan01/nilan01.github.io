@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+ul {
+  padding-top: 32px;
+  padding-left: 90px;
+}
+
+li{
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 25px;
+  font-weight: normal;
+  letter-spacing: -1px;
+  margin-top: 35px;
+}
+
+.services {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 35px;
+}
+
+.safe {
+  padding-top: 26px;
+  padding-left: 90px;
+  font-size: 40px;
+}
+
+.main {
+  background-image: url(https://www.sprinklermatic.net/wp-content/uploads/2017/10/Fire-Sprinkler-System-Installation.jpg);
+  padding-bottom: 200px;
+  background-position: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding-top: 140px;
+  padding-left: 30px;
+  margin-bottom: 0px;
+}
+
+.title {
+  color: white;
+  font-size: 60px;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+
+.contactInfo {
+  color: black;
+  margin-left: 20px;
+}
+
+.contactInfo2 {
+  color: white;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 25px;
+  margin-top: -23px;
+}
+
+.services {
+  display: flex;
+  flex-direction: row;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+  color: white;
+}
+
+.proactive {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 25px;
+
+}
+
+.crest {
+  padding-left: 195px;
+}
+.email {
+  display: flex;
+  justify-content: center;
+
+}
+
+a {
+  margin: 70px;
+  font-weight: lighter;
+  color: white;
+  font-size: 22px;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: lighter;
+  font-style: none;
+  text-decoration: none;
+  padding: 15px 25px;
+cursor: pointer;
+outline: none;
+color: #fff;
+/* background-color: #4CAF50; */
+border: none;
+border-radius: 15px;
+box-shadow: 0 9px #999;
+
+}
+
+a:hover {
+  text-decoration: underline;
+  color: red;
+
+}
+
+#kindly {
+  font-size: 21px;
+  font-weight: lighter;
+}
+
+.footer {
+  font-size: 14px;
+  font-weight: lighter;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Helvetica Neue', sans-serif;
+  padding-left: 35px;
+  margin-bottom: -5000px;
+  align-items: center;
+
+}
+
+.end {
+  display: flex;
+  flex-direction: row;
+  font-size: 12px;
+  justify-content: center;
+}
